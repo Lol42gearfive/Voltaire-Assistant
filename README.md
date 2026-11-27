@@ -1,6 +1,16 @@
 # 🚀 Voltaire AI (Beta)
 
-Assistant automatisé pour faciliter l'entraînement sur le Projet Voltaire.
+Assistant automatisé et personnalisable pour faciliter l'entraînement sur le Projet Voltaire.
+
+---
+
+## ✨ Fonctionnalités principales
+
+* **Résolution automatique complète :** Gère aussi bien les exercices classiques (identification de fautes, mots-clés, *"Il n'y a pas de faute"*) que les exercices de **glisser-déposer**.
+* **Navigation fluide :** Valide automatiquement les réponses et passe aux écrans suivants sans intervention manuelle.
+* **Délais personnalisables (Réglages avancés) :** Configurez des temps de réaction aléatoires (en secondes ou millisecondes) distincts pour les clics classiques et le glisser-déposer afin de simuler un rythme naturel.
+* **Simulateur d'erreurs :** Définissez un pourcentage d'erreur personnalisé pour éviter un score parfait irréaliste.
+* **Thèmes et interface :** Personnalisez l'apparence du menu de l'extension selon vos préférences et suivez vos statistiques de réussite en direct.
 
 ---
 
@@ -24,11 +34,14 @@ L'extension est distribuée sous forme de fichier `.crx` prêt à l'emploi. Suiv
 
 ---
 
-## 🛠️ Comment l'utiliser ?
+## 🛠️ Utilisation et Réglages
 
 1. Cliquez sur l'icône **Extensions** (la pièce de puzzle 🧩) en haut à droite de votre navigateur et épinglez **Voltaire AI (Beta)** pour la garder accessible.
-2. Allez sur le site du **Projet Voltaire** et lancez une session d'entraînement.
-3. Ouvrez le menu de l'extension, réglez la vitesse ou le taux d'erreur souhaité, puis cliquez sur **Activer**.
+2. Ouvrez le menu de l'extension pour ajuster vos paramètres :
+   * **Vitesse / Réglages avancés :** Définissez un délai minimum et maximum entre chaque action.
+   * **Taux d'erreur :** Ajustez le curseur pour introduire volontairement quelques fautes.
+   * **Thème :** Choisissez l'apparence visuelle qui vous convient.
+3. Allez sur le site du **Projet Voltaire**, lancez une session d'entraînement et cliquez sur **Activer** dans l'extension.
 
 ---
 
